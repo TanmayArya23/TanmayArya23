@@ -65,7 +65,7 @@ Pick a slot to connect if you'd like to discuss something from my profile or lea
 <br><br><br><br>
 
 
-<h1 align="center">💻 PROJECTS</h1>
+<h1 align="center">💻 Transforming Data into Insights: Key Projects</h1>
 <br>
 
 <div align="center">
@@ -88,7 +88,7 @@ Pick a slot to connect if you'd like to discuss something from my profile or lea
 
 <div align="center">
  
-<a href="https://github.com/TanmayArya23/TRON-BROWSER" target="_blank">![cooltext420353094750183](https://user-images.githubusercontent.com/87165685/192903918-2efec990-d831-4fb7-8a4e-20f33ab92a41.png) </a>
+<a href="https://github.com/TanmayArya23/Twitter-Scraper.git" target="_blank">![cooltext420353094750183](https://images.cooltext.com/5729996.png) </a>
  
 </div>
 
@@ -100,6 +100,33 @@ Pick a slot to connect if you'd like to discuss something from my profile or lea
 
 <br>
 
+---
+
+### 📌 Highlights & What's Ahead
+
+Over the course of building these projects, I’ve deepened my understanding of data pipelines, machine learning workflows, and translating real-world problems into technical solutions. Each project reflects a learning milestone — from scraping and storing Twitter data using the Twitter API and SQLite, to developing end-to-end classification models in healthcare, and performing exploratory sports analytics.
+
+Through these experiences, I've honed practical skills across the following areas:
+
+| Area                     | Tools / Technologies                                  | Focus                                                   |
+|--------------------------|--------------------------------------------------------|----------------------------------------------------------|
+| Data Analysis & EDA      | Python (Pandas, NumPy), Power BI, Excel               | Data cleaning, wrangling, and visualization              |
+| Database Management      | SQL, SQLite                                            | Querying, relational storage, database design            |
+| Machine Learning         | Scikit-learn                                           | Classification, regression, feature engineering          |
+| APIs & Automation        | Tweepy (Twitter API), Requests                        | Data scraping, API integration, automation scripts       |
+| Software Engineering     | Git, GitHub                                            | Version control, collaboration, project organization     |
+| Cloud & DevOps Exposure  | Kubernetes, Argo (HighRadius internship experience)   | Cloud-native deployments, CI/CD fundamentals             |
+| Business Understanding   | Market Research, B2B Invoice Analysis                 | Real-world context for data-driven solutions             |
+
+I continue to explore opportunities in **data analytics, product development, and financial insights** — with a strong belief in learning through building.
+
+Let’s connect if you’re working on anything exciting in these domains — always open to ideas and collaborations!
+
+
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
+
+
+
+
