@@ -82,7 +82,7 @@ Pick a slot to connect if you'd like to discuss something from my profile or lea
 
 <div align="center">
  
-<a href="https://github.com/TanmayArya23/TRON-BROWSER" target="_blank">![cooltext420353094750183](https://user-images.githubusercontent.com/87165685/192903918-2efec990-d831-4fb7-8a4e-20f33ab92a41.png) </a>
+<a href="https://github.com/TanmayArya23/IPL-2022-Data-Analysis.git" target="_blank">![cooltext420353094750183](https://images.cooltext.com/5729995.png) </a>
  
 </div>
 
