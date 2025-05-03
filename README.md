@@ -20,7 +20,7 @@
 
 <br>
 
-### 📫 Interested in connecting? ? <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+### 📫 Interested in connecting ? <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 Pick a slot to connect if you'd like to discuss something from my profile or learn more about my projects. 
 - Make sure to describe the agenda.
 
