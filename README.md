@@ -94,7 +94,7 @@ Pick a slot to connect if you'd like to discuss something from my profile or lea
 
 <div align="center">
  
-<a href="https://github.com/TanmayArya23/TRON-BROWSER" target="_blank">![cooltext420353094750183](https://images.cooltext.com/5729991.png) </a>
+<a href="https://github.com/TanmayArya23/TRON-BROWSER.git" target="_blank">![cooltext420353094750183](https://images.cooltext.com/5729991.png) </a>
  
 </div>
 
