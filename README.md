@@ -34,13 +34,11 @@ Pick a slot if you'd like to meet me and chat about anything you're passionate a
 <br>
 
 ### 🔨 Languages and Tools I use :
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-
-
-
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img align="left" alt="SQL" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></a>
+<a href="https://powerbi.microsoft.com/" target="_blank"><img align="left" alt="Power BI" height="42px" src="https://img.icons8.com/color/48/power-bi.png"></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img align="left" alt="Excel" height="42px" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"></a>
+<a href="#" target="_blank"><img align="left" alt="Data Analytics" height="42px" src="https://img.icons8.com/external-flat-juicy-fish/60/external-analytics-data-analytics-flat-flat-juicy-fish.png"></a>
 
 
 
