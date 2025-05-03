@@ -22,7 +22,7 @@
 
 ### 📫 Interested in connecting? ? <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 Pick a slot to connect if you'd like to discuss something from my profile or learn more about my projects. 
-- But make sure to describe the agenda.
+- Make sure to describe the agenda.
 
 <a href="https://calendly.com/tanmayarya24/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
@@ -70,7 +70,7 @@ Pick a slot to connect if you'd like to discuss something from my profile or lea
 
 <div align="center">
  
-<a href="https://github.com/TanmayArya23/TRON-BROWSER" target="_blank">![cooltext420353094750183](https://images.cooltext.com/5729992.png) </a>
+<a href="https://github.com/TanmayArya23/Kidney-Stone-Prediction.git" target="_blank">![cooltext420353094750183](https://images.cooltext.com/5729993.png) </a>
  
 </div>
 
