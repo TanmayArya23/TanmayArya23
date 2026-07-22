@@ -20,18 +20,22 @@
 
 <br>
 
-### 📫 Interested in connecting ? <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+### 📫 Interested in connecting ? <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="140">
 Pick a slot to connect if you'd like to discuss something from my profile or learn more about my projects. 
 - Make sure to describe the agenda.
 
-<a href="https://calendly.com/tanmayarya24/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+<a href="https://calendly.com/tanmayarya24/30min" target="_blank"><img width="420" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
-<img align="right" alt="" src="![techstack](https://user-images.githubusercontent.com/87165685/192653189-969fdc50-d86a-4152-be8c-35ec6088a91c.gif)" />
+<br clear="both">
+<br>
 
-
-
+### 🎓 Education
+- **Duke University, The Fuqua School of Business** — Master of Science in Quantitative Management (Business Analytics & Finance), 2025–2026
+- **Kalinga Institute of Industrial Technology** — Bachelor of Technology, Information Technology, 2020–2024
 
 <br>
+
+<img align="right" alt="" src="![techstack](https://user-images.githubusercontent.com/87165685/192653189-969fdc50-d86a-4152-be8c-35ec6088a91c.gif)" />
 
 ### 🔨 Languages and Tools I use :
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
