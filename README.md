@@ -68,28 +68,28 @@ Pick a slot to connect if you'd like to discuss something from my profile or lea
 <h1 align="center">💻 Transforming Data into Insights: Key Projects</h1>
 <br>
 
+<a href="https://github.com/TanmayArya23/btc-led-crypto-signal" target="_blank">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=FFC300&height=100&section=header&text=BTC-Led%20Crypto%20Signal&fontSize=35&fontColor=1a1a1a&animation=fadeIn" width="100%"/>
+</a>
+
 <a href="https://github.com/TanmayArya23/Kidney-Stone-Prediction" target="_blank">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=FFC300&height=100&section=header&text=Kidney%20Stone%20Prediction&fontSize=35&fontColor=1a1a1a&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=FFC300&height=100&section=header&text=Kidney%20Stone%20Prediction&fontSize=35&fontColor=1a1a1a&animation=fadeIn" width="100%"/>
 </a>
 
 <a href="https://github.com/TanmayArya23/Breast-Cancer-Classification-Web-Application" target="_blank">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=FFC300&height=100&section=header&text=Breast%20Cancer%20Classification&fontSize=35&fontColor=1a1a1a&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=FFC300&height=100&section=header&text=Breast%20Cancer%20Classification&fontSize=35&fontColor=1a1a1a&animation=fadeIn" width="100%"/>
 </a>
 
 <a href="https://github.com/TanmayArya23/IPL-2022-Data-Analysis" target="_blank">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=FFC300&height=100&section=header&text=IPL%202022%20Data%20Analysis&fontSize=35&fontColor=1a1a1a&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=FFC300&height=100&section=header&text=IPL%202022%20Data%20Analysis&fontSize=35&fontColor=1a1a1a&animation=fadeIn" width="100%"/>
 </a>
 
 <a href="https://github.com/TanmayArya23/Twitter-Scraper" target="_blank">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=FFC300&height=100&section=header&text=Twitter%20Scraper&fontSize=35&fontColor=1a1a1a&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=FFC300&height=100&section=header&text=Twitter%20Scraper&fontSize=35&fontColor=1a1a1a&animation=fadeIn" width="100%"/>
 </a>
 
 <a href="https://github.com/TanmayArya23/TRON-BROWSER" target="_blank">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=FFC300&height=100&section=header&text=TRON%20Browser&fontSize=35&fontColor=1a1a1a&animation=fadeIn" />
-</a>
-
-<a href="https://github.com/TanmayArya23/btc-led-crypto-signal" target="_blank">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=FFC300&height=100&section=header&text=BTC-Led%20Crypto%20Signal&fontSize=35&fontColor=1a1a1a&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=FFC300&height=100&section=header&text=TRON%20Browser&fontSize=35&fontColor=1a1a1a&animation=fadeIn" width="100%"/>
 </a>
 
 <br>
